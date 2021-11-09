@@ -8,7 +8,7 @@ A proof of concept Conway's Game of Life developed with pygame.
 ## Features
 
 - Control screen size
-- Press R to randomize the grid
+- Press R to randomize the cells in the grid
 
 ## Deployment
 
