@@ -1,3 +1,6 @@
+# concept by John Horton Conway
+# implementation by arthuregood
+
 import pygame as pg
 import numpy as np
 
