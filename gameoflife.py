@@ -22,8 +22,10 @@ def random_cells():
 
 # updates the grid
 def update(screen, cz, cells):
+    # next grid set of cells
     next = np.zeros((cells.shape[0], cells.shape[1]))
 
+    # compare cells with their neighbors
     for r, c in np.ndindex(cells.shape):
         num_alive = np.sum(cells[r-1:r+2, c-1:c+2]) - cells[r, c]
 
