@@ -4,13 +4,10 @@
 import pygame as pg
 import numpy as np
 from math import sqrt
-
-
 # colours
 cell_alive = (255, 255, 215)
 cell_to_die = (200, 200, 225)
 background = (10, 10, 40)
-grid = (30, 30, 60)
 
 
 class GameofLife:

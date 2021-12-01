@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 pygame = "*"
 numpy = "*"
+matplotlib = "*"
+pandas = "*"
+install = "*"
+pyqt5 = "*"
 
 [dev-packages]
 
