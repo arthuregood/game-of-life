@@ -15,18 +15,18 @@ A proof of concept Conway's Game of Life developed with pygame.
 To deploy this project run
 
 ```
-  pipenv install
+  $ pipenv install
 ```
 
 ## Play Game of Life
 
 ```
-  pipenv run python3 gameoflife.py
+  $ pipenv run python3 gameoflife.py
 ```
 
 ## Simulation and Data Analysis
 
 
 ```
-  pipenv run python3 data_analysis/
+  $ pipenv run python3 data_analysis/
 ```
